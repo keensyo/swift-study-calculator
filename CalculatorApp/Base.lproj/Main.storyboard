@@ -233,7 +233,7 @@
                     </view>
                     <connections>
                         <outlet property="answerLabel" destination="b8V-dL-z6j" id="qCg-K4-O5I"/>
-                        <outlet property="formulaLabel" destination="b8V-dL-z6j" id="QKF-71-uft"/>
+                        <outlet property="formulaLabel" destination="jXg-fS-T9P" id="rSk-gl-IPr"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
